@@ -1,10 +1,10 @@
 {
-    "name": "jazmy/jaz-form-builder",
-    "description": "Laravel Package for Creating a Drag-and-Drop Form Builder Using JQuery Form Builder",
+    "name": "ocw/form",
+    "description": "Not For Public",
     "authors": [
         {
-            "name": "Jasmine Robinson",
-            "email": "jaz@jazmy.com"
+            "name": "ocw",
+            "email": "support@onlinecheckwriter.com"
         }
     ],
     "require": {
